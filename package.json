@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "ts-node-debug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "NODE_OPTIONS=--inspect-brk tsx index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tsx": "^3.13.0"
+  }
+}
